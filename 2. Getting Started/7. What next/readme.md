@@ -1,4 +1,4 @@
-# Lab
+# Lab - GetSimple CMS
 
 ## Enum
 

@@ -142,6 +142,8 @@ reDrose18@htb[/htb]$ curl -s http://10.129.42.190/nibbleblog/content/private/use
 
 --> Tôi đã thử hydra và không thu được kết quả, vì block quá sớm, quá ít lần thử 
 
+`hydra -l admin -P passwords.txt http://10.129.200.170/nibbleblog/ https-postform "/admin.php:username=^USER^&password=^PASS^:F=Incorrect"`
+
 mặt khác ta thu thập được 
 
 ```bash
