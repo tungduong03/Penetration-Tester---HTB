@@ -1,4 +1,4 @@
-# Lab - GetSimple CMS
+# Lab - GetSimple
 
 ## Enum
 
@@ -9,7 +9,7 @@ Nmap:
 Gobuster
 
 
-Recon thoong tin: 
+Recon thông tin: 
 
 Dùng GetSimple CMS phiên bản 3.3.15
 
