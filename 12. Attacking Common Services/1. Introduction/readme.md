@@ -76,6 +76,8 @@ Gửi và nhận email sử dụng hai giao thức chính:
 sudo apt-get install evolution
 ```
 
+https://www.youtube.com/watch?v=xelO2CiaSVs
+
 Khi cấu hình, cần cung cấp tên miền hoặc IP của máy chủ mail, và chọn phương thức mã hóa phù hợp (TLS hoặc STARTTLS).
 
 ---
